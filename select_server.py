@@ -30,10 +30,6 @@ def run_server(port):
                 else:
                     print("('" + str(addr) + "', " + str(port) + ") " + str(len(data)) + " bytes: " + str(data))
 
-            #print("(" + str(addr[0]) + str(port) + "): disconnected")
-            #new_socket.close()
-        #pass
-
 #--------------------------------#
 # Do not modify below this line! #
 #--------------------------------#
